@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["🎧 Listening to Made By abdelrahim3456x", "🎮 Playing SFRO"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = [ 'online', 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
